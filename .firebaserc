@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "keychain-generator-ionic",
+    "Marc": "keychain-generator-ionic"
+  },
+  "targets": {},
+  "etags": {}
+}
